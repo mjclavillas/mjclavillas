@@ -22,14 +22,17 @@ I build high-performance web applications and custom scripts. My expertise spans
 
 ### 💻 Technical Stack
 
-**Web & Software Development**
-![Web Skills](https://skillicons.dev/icons?i=php,laravel,react,nextjs,js,html,css,tailwind,cs,dotnet)
+| **Web & Software Development** |
+| --- |
+| ![Web Skills](https://skillicons.dev/icons?i=php,laravel,react,nextjs,js,html,css,tailwind,cs,dotnet) |
 
 **Databases & Game Scripting**
-![Data & Scripts](https://skillicons.dev/icons?i=mysql,lua,cpp)
+| --- |
+| ![Data & Scripts](https://skillicons.dev/icons?i=mysql,lua,cpp) |
 
-**Infrastructure & Deployment**
-![Ops Skills](https://skillicons.dev/icons?i=docker,github,linux,windows,cloudflare)
+| **Infrastructure & Deployment** |
+| --- |
+| ![Ops Skills](https://skillicons.dev/icons?i=docker,github,linux,windows,cloudflare) |
 
 ---
 

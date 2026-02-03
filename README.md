@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Mark] 👋
+# Hi there, I'm Mark 👋
 
-### Full-Stack Developer | Systems Scripter | SEO Specialist
+### Full-Stack Developer | SEO Specialist
 
 I build high-performance web applications and custom scripts. My expertise spans from **Laravel & React** ecosystems to low-level game scripting with **Lua & C++**, backed by a deep understanding of **Server Architecture** and **SEO Optimization**.
 
@@ -47,6 +47,6 @@ I build high-performance web applications and custom scripts. My expertise spans
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can levitate birds, but nobody cares.
 
-| Most Used Languages | Github Trophies |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats-one-sable-48.vercel.app/api?username=mjclavillas&layout=compact&theme=onedark) | ![Trophies](https://trophy.ryglcloud.net/?username=mjclavillas&theme=onedark) |
+| Github Trophies |
+| --- |
+| ![Trophies](https://trophy.ryglcloud.net/?username=mjclavillas&theme=onedark) |

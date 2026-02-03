@@ -12,6 +12,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm [Mark] 👋
+
+### Full-Stack Developer | Systems Scripter | SEO Specialist
+
+I build high-performance web applications and custom scripts. My expertise spans from **Laravel & React** ecosystems to low-level game scripting with **Lua & C++**, backed by a deep understanding of **Server Architecture** and **SEO Optimization**.
+
+---
+
+### 💻 Technical Stack
+
+**Web & Software Development**
+![Web Skills](https://skillicons.dev/icons?i=php,laravel,react,nextjs,js,html,css,tailwind,cs,dotnet)
+
+**Databases & Game Scripting**
+![Data & Scripts](https://skillicons.dev/icons?i=mysql,lua,cpp)
+
+**Infrastructure & Deployment**
+![Ops Skills](https://skillicons.dev/icons?i=docker,github,linux,windows,cloudflare)
+
+---
+
+### 🛠️ Professional Capabilities
+
+* **Databases:** Proficient in **MySQL, MSSQL, Oracle, and MariaDB**.
+* **SEO & Optimization:** Expert audits using **Screaming Frog, Ahrefs, and Moz** to drive site performance.
+* **Server Management:** Experienced in **cPanel, VPS hosting**, DNS management, and server-side troubleshooting.
+* **Workflow:** Agile collaboration via **Asana, Slack, and Salesforce**.
+
+---
 
 ### 📊 My GitHub Data
 - 🔭 I'm currently working on random projects!
@@ -20,4 +49,4 @@ Here are some ideas to get you started:
 
 | Most Used Languages | Github Trophies |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjclavillas&layout=compact&theme=vision-friendly-dark) | ![Trophies](https://github-profile-trophy.vercel.app/?username=mjclavillas) |
+| ![Top Langs](https://github-readme-stats-one-sable-48.vercel.app/api?username=mjclavillas&layout=compact&theme=onedark) | ![Trophies](https://trophy.ryglcloud.net/?username=mjclavillas&theme=onedark) |
